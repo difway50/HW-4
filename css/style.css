@@ -1,0 +1,79 @@
+.fixed-top{
+	right: 16%; 
+	left: auto;
+	top: 2%;
+}
+
+.navbar-dark .navbar-nav .active>.nav-link, .navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .show>.nav-link {
+	color: black;
+}
+
+.navbar-dark .navbar-nav .nav-link{
+	color: black;
+}
+
+.navbar-dark .navbar-nav .nav-link.disabled{
+	color: black;
+}
+
+.move_p{
+	padding-left: 35%;
+	
+}
+
+.move_h{
+	margin-top: 20%;
+}
+
+.move_img{
+	padding-left: 7%;
+}
+
+#carouselExampleControls{
+	margin-bottom: 10%;
+}
+
+.fnt_chg_h{
+	font-family: Gotham, Sans-serif;
+	color: #33FFCC;
+	font-size: 4.0em;
+}
+
+.fnt_chg_p{
+	font-size: 1.0em; 
+}
+
+.move_dwn{
+	padding-top: 10%;
+}
+
+.fnt_chg_hd{
+	color: #ff1643;
+	font-size: 4.0em;
+	font-family: Gotham, Sans-serif;
+}
+
+.fnt_chg_pd{
+	font-size: 1.0em;
+}
+.move_pad_bot{
+	padding-bottom: 17%;
+}
+
+.rowd{
+	background-color: #e6e7e8;	
+}
+
+.move_imgd{
+	padding-left: 7%;
+	padding-top: 10%;
+}
+
+.move_lftd{
+	margin-top: 5%;
+	padding-left: 6%;
+}
+
+.navbar-nav{
+	text-align: right;
+}
